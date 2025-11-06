@@ -1,0 +1,80 @@
+[
+  {
+    "query": "Show me iPhone 11 sports cases",
+    "expected_type": "product",
+    "expected_result": ["Nike Inspired Case", "Nike Case 2", "Nike Case 5"]
+  },
+  {
+    "query": "Do you deliver outside Kathmandu?",
+    "expected_type": "faq",
+    "expected_result": "Yes, we deliver all over Nepal using our partnered courier services."
+  },
+  {
+    "query": "What is your return policy?",
+    "expected_type": "faq",
+    "expected_result": "Unused and undamaged items can be returned or exchanged within 7 days of delivery."
+  },
+  {
+    "query": "I want a premium double layer case for iPhone 13",
+    "expected_type": "product",
+    "expected_result": ["Anime Design"]
+  },
+  {
+    "query": "How much is the Anime Case 5?",
+    "expected_type": "product",
+    "expected_result": ["Rs. 1250"]
+  },
+  {
+    "query": "Show me all Apple brand cases",
+    "expected_type": "product",
+    "expected_result": [
+      "Nike Inspired Case",
+      "Anime Case 5",
+      "Nike Case 5",
+      "Anime Case 2",
+      "Anime Design",
+      "Abstract case 5"
+    ]
+  },
+  {
+    "query": "Can I pay using eSewa?",
+    "expected_type": "faq",
+    "expected_result": "We accept Cash on Delivery (COD), eSewa, Khalti, bank transfers and card payments."
+  },
+  {
+    "query": "Do you offer custom design covers?",
+    "expected_type": "faq",
+    "expected_result": "Yes, we offer custom cases with your name, photo or design print. Additional charges may apply."
+  },
+  {
+    "query": "Show me anime themed cases for iPhone 12",
+    "expected_type": "product",
+    "expected_result": ["Anime Case 5"]
+  },
+  {
+    "query": "How long will delivery take inside Kathmandu?",
+    "expected_type": "faq",
+    "expected_result": "Delivery inside Kathmandu typically takes 1‑2 business days."
+  },
+  {
+    "query": "Can I cancel my order after placing it?",
+    "expected_type": "faq",
+    "expected_result": "Yes, you can cancel your order within 2 hours of placing it (before the product is dispatched)."
+  },
+  {
+    "query": "Which iPhone models do you have cases for?",
+    "expected_type": "product",
+    "expected_result": [
+      "iPhone 11",
+      "iPhone 12",
+      "iPhone 13",
+      "iPhone 14",
+      "iPhone 15 pro max"
+    ]
+  },
+  {
+    "query": "Do the cases support wireless charging?",
+    "expected_type": "faq",
+    "expected_result": "Most of our cases are designed to support wireless charging. Check product page for compatibility."
+  }
+]

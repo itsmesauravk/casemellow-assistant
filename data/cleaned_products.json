@@ -1,0 +1,518 @@
+[
+    {
+        "productName": "Nike Inspired Case",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by Nike sports.",
+        "productPrice": 1250,
+        "productCategory": "Sports",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865055/Casemellow/products/xorztb46lhv7un2iqd9b.png",
+        "productUrl": "http://localhost:3000/products/sports/67b43be2d621c1b71e0a97d4"
+    },
+    {
+        "productName": "Nike Case2",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by Nike sports.",
+        "productPrice": 1250,
+        "productCategory": "Sports",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865088/Casemellow/products/pltdaiqjzdrmozaisxnw.png",
+        "productUrl": "http://localhost:3000/products/sports/67b43c04d621c1b71e0a97de"
+    },
+    {
+        "productName": "Nike Case 3",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by Nike sports.",
+        "productPrice": 1250,
+        "productCategory": "Sports",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865123/Casemellow/products/uhec0feimmy4mwj9mhuv.png",
+        "productUrl": "http://localhost:3000/products/sports/67b43c26d621c1b71e0a97e8"
+    },
+    {
+        "productName": "Nike Case 4",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by Nike sports.",
+        "productPrice": 1250,
+        "productCategory": "Sports",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865193/Casemellow/products/bse2wj2lxhewgldlos9i.png",
+        "productUrl": "http://localhost:3000/products/sports/67b43c6cd621c1b71e0a97f2"
+    },
+    {
+        "productName": "Nike Case 5",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer"
+        ],
+        "productDescription": "The best premium cover inspired by Nike sports.",
+        "productPrice": 1250,
+        "productCategory": "Sports",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865225/Casemellow/products/tm8qcy68iooloa7m2nl2.png",
+        "productUrl": "http://localhost:3000/products/sports/67b43c8cd621c1b71e0a97fc"
+    },
+    {
+        "productName": "Marvel case 2",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by marvel avenger.",
+        "productPrice": 1250,
+        "productCategory": "Marvel",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865404/Casemellow/products/zzajj87x3qvm8disjewb.png",
+        "productUrl": "http://localhost:3000/products/marvel/67b43d3fd621c1b71e0a9824"
+    },
+    {
+        "productName": "Marvel case 3",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by marvel avenger.",
+        "productPrice": 1250,
+        "productCategory": "Marvel",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865425/Casemellow/products/fbw1xtgokni92zvzjuzf.png",
+        "productUrl": "http://localhost:3000/products/marvel/67b43d54d621c1b71e0a982e"
+    },
+    {
+        "productName": "Marvel case 4",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer"
+        ],
+        "productDescription": "The best premium cover inspired by marvel avenger.",
+        "productPrice": 1250,
+        "productCategory": "Marvel",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865576/Casemellow/products/dcztvml2u6ydo5tht77m.png",
+        "productUrl": "http://localhost:3000/products/marvel/67b43debd621c1b71e0a9838"
+    },
+    {
+        "productName": "Marvel case 5",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by marvel avenger.",
+        "productPrice": 1250,
+        "productCategory": "Marvel",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865603/Casemellow/products/ibo8esaaar5vz1amfapi.png",
+        "productUrl": "http://localhost:3000/products/marvel/67b43e06d621c1b71e0a9842"
+    },
+    {
+        "productName": "Anime case",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by anime.",
+        "productPrice": 1250,
+        "productCategory": "Anime",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865687/Casemellow/products/kugdbh1lfzh8wdgdonmg.png",
+        "productUrl": "http://localhost:3000/products/anime/67b43e5ad621c1b71e0a984c"
+    },
+    {
+        "productName": "Anime case 2",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by anime.",
+        "productPrice": 1250,
+        "productCategory": "Anime",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865710/Casemellow/products/ak5waovpdzq9x9lmrlmd.png",
+        "productUrl": "http://localhost:3000/products/anime/67b43e71d621c1b71e0a9856"
+    },
+    {
+        "productName": "Anime case 3",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by anime.",
+        "productPrice": 1250,
+        "productCategory": "Anime",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865853/Casemellow/products/sqw7xjrstj0emldxowfs.png",
+        "productUrl": "http://localhost:3000/products/anime/67b43f00d621c1b71e0a9860"
+    },
+    {
+        "productName": "Anime case 4",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer"
+        ],
+        "productDescription": "The best premium cover inspired by anime.",
+        "productPrice": 1250,
+        "productCategory": "Anime",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865888/Casemellow/products/iyvyrvxqklxdvwoch0zl.png",
+        "productUrl": "http://localhost:3000/products/anime/67b43f23d621c1b71e0a986a"
+    },
+    {
+        "productName": "Anime case 5",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 12",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by anime.",
+        "productPrice": 1250,
+        "productCategory": "Anime",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739865917/Casemellow/products/ulgzjglpwz9h0yf44j9y.png",
+        "productUrl": "http://localhost:3000/products/anime/67b43f40d621c1b71e0a9874"
+    },
+    {
+        "productName": "Mandala case",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by mandala theme.",
+        "productPrice": 1250,
+        "productCategory": "Mandala",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866016/Casemellow/products/h0ud8rcdzwyopihmpysx.png",
+        "productUrl": "http://localhost:3000/products/mandala/67b43fa3d621c1b71e0a988a"
+    },
+    {
+        "productName": "Mandala case 2",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 12",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by mandala theme.",
+        "productPrice": 1250,
+        "productCategory": "Mandala",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866037/Casemellow/products/kjqqan53eo1mbup2azgl.png",
+        "productUrl": "http://localhost:3000/products/mandala/67b43fb8d621c1b71e0a9894"
+    },
+    {
+        "productName": "Mandala case 3",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 13",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by mandala theme.",
+        "productPrice": 1250,
+        "productCategory": "Mandala",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866060/Casemellow/products/zicfnd4nftzr2mcjtkrq.png",
+        "productUrl": "http://localhost:3000/products/mandala/67b43fcfd621c1b71e0a989e"
+    },
+    {
+        "productName": "Mandala case 4",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 14",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by mandala theme.",
+        "productPrice": 1250,
+        "productCategory": "Mandala",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866085/Casemellow/products/guz9mrma5eputydcsnwp.png",
+        "productUrl": "http://localhost:3000/products/mandala/67b43fe8d621c1b71e0a98a8"
+    },
+    {
+        "productName": "Mandala case 5",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 15",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by mandala theme.",
+        "productPrice": 1250,
+        "productCategory": "Mandala",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866108/Casemellow/products/argpmfxwzjkbsjqwode8.png",
+        "productUrl": "http://localhost:3000/products/mandala/67b43fffd621c1b71e0a98b2"
+    },
+    {
+        "productName": "God case",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by god theme.",
+        "productPrice": 1250,
+        "productCategory": "God",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866166/Casemellow/products/wnth9milu3ay99n8fbut.png",
+        "productUrl": "http://localhost:3000/products/god/67b44039d621c1b71e0a98c2"
+    },
+    {
+        "productName": "God case 2",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 12",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by god theme.",
+        "productPrice": 1250,
+        "productCategory": "God",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866190/Casemellow/products/lvddqctvswmji8mrjluv.png",
+        "productUrl": "http://localhost:3000/products/god/67b44051d621c1b71e0a98cc"
+    },
+    {
+        "productName": "God case 3",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 13",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by god theme.",
+        "productPrice": 1250,
+        "productCategory": "God",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866214/Casemellow/products/vajf7dmujwodftl9j6uw.png",
+        "productUrl": "http://localhost:3000/products/god/67b44069d621c1b71e0a98d6"
+    },
+    {
+        "productName": "God case 4",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 14",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by god theme.",
+        "productPrice": 1250,
+        "productCategory": "God",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866241/Casemellow/products/vaztcbsfuk0wdfnthukp.png",
+        "productUrl": "http://localhost:3000/products/god/67b44084d621c1b71e0a98e0"
+    },
+    {
+        "productName": "God case 5",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 15",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by god theme.",
+        "productPrice": 1250,
+        "productCategory": "God",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866273/Casemellow/products/pkxahs4yjd0qhxqjopo0.png",
+        "productUrl": "http://localhost:3000/products/god/67b440a4d621c1b71e0a98ea"
+    },
+    {
+        "productName": "Luxury case",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by Luxury theme.",
+        "productPrice": 1250,
+        "productCategory": "Luxury",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866481/Casemellow/products/amycjdvo6cxycwsxca5v.png",
+        "productUrl": "http://localhost:3000/products/luxury/67b44174d621c1b71e0a98fa"
+    },
+    {
+        "productName": "Luxury case 2",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 12",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by Luxury theme.",
+        "productPrice": 1250,
+        "productCategory": "Luxury",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866505/Casemellow/products/zx3sck47stpy9wzru16q.png",
+        "productUrl": "http://localhost:3000/products/luxury/67b4418cd621c1b71e0a9904"
+    },
+    {
+        "productName": "Luxury case 3",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 13",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by Luxury theme.",
+        "productPrice": 1250,
+        "productCategory": "Luxury",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866527/Casemellow/products/ky7c75f7aqgxe5t9m7eq.png",
+        "productUrl": "http://localhost:3000/products/luxury/67b441a2d621c1b71e0a990e"
+    },
+    {
+        "productName": "Luxury case 4",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 14",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by Luxury theme.",
+        "productPrice": 1250,
+        "productCategory": "Luxury",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866557/Casemellow/products/p36pwc0pobqpbwwywzxg.png",
+        "productUrl": "http://localhost:3000/products/luxury/67b441c0d621c1b71e0a9918"
+    },
+    {
+        "productName": "Luxury case 5",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 15",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by Luxury theme.",
+        "productPrice": 1250,
+        "productCategory": "Luxury",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739866587/Casemellow/products/wtdyzhuni2fjyoyfbvzg.png",
+        "productUrl": "http://localhost:3000/products/luxury/67b441ded621c1b71e0a9922"
+    },
+    {
+        "productName": "Abstract case",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 11",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by abstract theme.",
+        "productPrice": 1250,
+        "productCategory": "Abstract",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739867193/Casemellow/products/j1htxmbh4uha1lztcuft.png",
+        "productUrl": "http://localhost:3000/products/abstract/67b4443cd621c1b71e0a9937"
+    },
+    {
+        "productName": "Abstract case 2",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 12",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by abstract theme.",
+        "productPrice": 1250,
+        "productCategory": "Abstract",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739867219/Casemellow/products/onbuo3riwfnd6rtcozbj.png",
+        "productUrl": "http://localhost:3000/products/abstract/67b44456d621c1b71e0a9941"
+    },
+    {
+        "productName": "Abstract case 3",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 16",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by abstract theme.",
+        "productPrice": 1250,
+        "productCategory": "Abstract",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739867243/Casemellow/products/ml3q6fzlh9q1t3geurc2.png",
+        "productUrl": "http://localhost:3000/products/abstract/67b4446ed621c1b71e0a994b"
+    },
+    {
+        "productName": "Abstract case 4",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 14 pro",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "The best premium cover inspired by abstract theme.",
+        "productPrice": 1250,
+        "productCategory": "Unique",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739867276/Casemellow/products/fehh7g7sclnnfpxxuxho.png",
+        "productUrl": "http://localhost:3000/products/unique/67b4448fd621c1b71e0a9955"
+    },
+    {
+        "productName": "Abstract case 5",
+        "brandName": "Apple",
+        "phoneModel": "iPhone 15 pro max",
+        "coverType": [
+            "Premium Double Layer",
+            "3D hard cover",
+            "2D Cover"
+        ],
+        "productDescription": "This is the best we have got",
+        "productPrice": 1,
+        "productCategory": "Asthetic",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1739867304/Casemellow/products/pytbspecumwgfcjaffpl.png",
+        "productUrl": "http://localhost:3000/products/asthetic/67b444abd621c1b71e0a995f"
+    },
+    {
+        "productName": "Anime Design",
+        "brandName": "Apple",
+        "phoneModel": "iphone 13",
+        "coverType": [
+            "Premium Double Layer"
+        ],
+        "productDescription": "",
+        "productPrice": 1250,
+        "productCategory": "Anime",
+        "productImage": "https://res.cloudinary.com/watchmebby/image/upload/v1744535331/Casemellow/products/effuxdqx6y3camfn1aw9.png",
+        "productUrl": "http://localhost:3000/products/anime/67fb7f074a2228ea9945bec3"
+    }
+]
