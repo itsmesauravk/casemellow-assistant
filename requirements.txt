@@ -1,8 +1,9 @@
+# Core API
 fastapi==0.115.5
 uvicorn==0.24.0
 python-dotenv==1.0.1
 
-# Chroma (vector DB)
+# Vector Database
 chromadb==0.4.22
 
 # Google APIs
@@ -11,7 +12,7 @@ google-generativeai==0.3.2
 google-api-core>=2.17.1,<3.0.0
 googleapis-common-protos>=1.62.0,<2.0.0
 proto-plus>=1.26.0,<2.0.0
-protobuf>=4.25.3,<5.0.0
+protobuf==4.25.3          # ✅ Compatible with both google libs and grpc
 grpcio==1.62.3
 grpcio-status==1.62.3
 
